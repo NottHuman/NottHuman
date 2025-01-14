@@ -37,9 +37,7 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/notthuman/notthuman/output/snake.svg" alt="Snake Animation" />
-<div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notthuman&" alt="Sudhanshu Kumar" />
-</div>
+
 
 ## About Me ![Profile Views](https://komarev.com/ghpvc/?username=notthuman&color=orange)
 
